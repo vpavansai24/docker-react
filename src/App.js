@@ -11,8 +11,7 @@ function App() {
         className = "App-logo"
         alt = "logo" / >
         <
-        p >
-        22 / 4 / 2021 < /p> <
+        date22042021 < /p> <
         a className = "App-link"
         href = "https://reactjs.org"
         target = "_blank"
