@@ -12,7 +12,7 @@ function App() {
         alt = "logo" / >
         <
         p >
-        Feature..!! < /p> <
+        22 / 4 / 2021 < /p> <
         a className = "App-link"
         href = "https://reactjs.org"
         target = "_blank"
